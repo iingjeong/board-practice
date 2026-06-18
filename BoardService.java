@@ -14,3 +14,5 @@
         board.setContent(newContent);
         return board;
     }
+
+//B계정에서 추가함
