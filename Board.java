@@ -5,6 +5,7 @@ public class Board {
     private int    id;
     private String title;
     private String author;
+    [C계정에서 윗부분에서 수정]
 }
     // feature/A: 조회수 기능 추가
     private int viewCount = 0;
