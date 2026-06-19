@@ -1,4 +1,4 @@
-[A계정, conflict/A브랜치에서 추가]
+[B계정의 conflict/B에서 수정함]
 public class Board {
     private int    id;
     private String title;
