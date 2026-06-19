@@ -1,3 +1,4 @@
+//[C계정에서 Board.java 수정함]
 public class Board {
     private int    id;
     private String title;
